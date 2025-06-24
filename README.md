@@ -3,7 +3,7 @@
 
 Welcome to my sandbox of practical and cryptic data analyses — from job market patterns to horror movie tropes, psychological game metadata, and beyond.
 
-## 📁 Repository Structure
+## Repository Structure
 
 - `data/`: Raw and cleaned datasets
 - `notebooks/`: Jupyter notebooks for Pandas and PySpark workflows
